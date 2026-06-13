@@ -1,2 +1,2 @@
 # HRM_System_Wireframe
-Human Resource Management (HRM) system is the strategic practice of managing people in an organization to maximize employee performance and achieve organizational goals.
+**HRM_System_Wireframe** is a wireframe design project for a Human Resource Management (HRM) System that streamlines employee management processes. It covers key HR functionalities such as employee information management, recruitment, attendance tracking, leave management, payroll, performance evaluation, and reporting to enhance organizational efficiency and support strategic decision-making.
